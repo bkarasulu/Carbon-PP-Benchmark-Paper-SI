@@ -23,7 +23,7 @@ Generalized gradient approximation made simple.
 Phys. Rev. Lett., 77:3865{3868, 1996. doi:
 10.1103/PhysRevLett.77.3865.
 
-**AIREBO: ** Steven J Stuart, Alan B Tutein, and Judith A Harrison.
+**AIREBO:** Steven J Stuart, Alan B Tutein, and Judith A Harrison.
 A reactive potential for hydrocarbons with intermolecular
 interactions. J. Chem. Phys., 112(14):6472{6486, 2000.
 doi:10.1063/1.481208.
@@ -36,8 +36,7 @@ potential for carbon. Phys. Rev. B, 63(3):035401,
 Gabor Csanyi, and Angelos Michaelides. An accurate and
 transferable machine learning potential for carbon. Jour-
 nal of Chemical Physics, 153(3), 2020. ISSN 10897690.
-doi:10.1063/5.0005084. URL https://doi.org/10.1063/
-5.0005084.
+doi:10.1063/5.0005084.
 
 **LCBOP-I:** H Los and A Fasolino. Intrinsic long-range bond-order
 potential for carbon: Performance in Monte Carlo simulations
