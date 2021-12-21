@@ -13,8 +13,8 @@ GAP20_Larger-Clusters: Larger cluster (C200-C720) searches using GAP20
 
 
  
-**DFT/Potential References:
-**
+**DFT/Potential References:**
+
 **DFT/GGA-PBE:** G. Kresse and J. Hafner. Ab initio molecular dynamics
 for liquid metals. Phys. Rev. B, 47:558{561, 1993. doi:
 10.1103/PhysRevB.47.558.; John P. Perdew, Kieron Burke, and Matthias Ernzerhof.
@@ -22,7 +22,7 @@ Generalized gradient approximation made simple.
 Phys. Rev. Lett., 77:3865{3868, 1996. doi:
 10.1103/PhysRevLett.77.3865.
 
-**AIREBO: **Steven J Stuart, Alan B Tutein, and Judith A Harrison.
+**AIREBO: ** Steven J Stuart, Alan B Tutein, and Judith A Harrison.
 A reactive potential for hydrocarbons with intermolecular
 interactions. J. Chem. Phys., 112(14):6472{6486, 2000.
 doi:10.1063/1.481208.
@@ -54,7 +54,7 @@ Stuart, B. Ni, and S. B. Sinnott. A second-generation reactive
 empirical bond order (REBO) potential energy expression
 for hydrocarbons. J. Phys.: Condens. Matter, 14 (4):783{802, 2002. doi:10.1088/0953-8984/14/
 
-**TERSOFF:** J. Terso. Empirical interatomic potential for carbon, with
+**TERSOFF:** J. Terso. Empirical interatomic potential for carbon, with
 applications to amorphous carbon. Phys. Rev. Lett., 61
 (25):2879{2882, 1988. doi:10.1103/PhysRevLett.61.2879.
 
