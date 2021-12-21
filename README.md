@@ -1,18 +1,33 @@
 # Carbon-PP-Benchmark-Paper-SI
 Naming conventions:
+
 *_NS: general cluster searches (C4-C200) with no symmetry structures (C1 only)
+
 *_HS: general cluster searches (C4-C200) with higher symmetry structures
+
 *_C60: C60-only cluster searches
+
 GAP20_C240: C240-only cluster searches using GAP20 potential
+
 GAP20_Larger-Clusters: Larger cluster (C200-C720) searches using GAP20
 
 
+
 DFT/Potential References:
+
 DFT/GGA/PBE:
+
 AIREBO:
+
 EDIP:
+
 GAP20:
+
 LCBOP:
+
 ReaxFF:
+
 REBO:
+
 TERSOFF:
+
