@@ -1,9 +1,9 @@
 # Carbon-PP-Benchmark-Paper-SI
 **Naming conventions:**
 
-*_NS: general cluster searches (C4-C200) with no symmetry structures (C1 only)
+*_NS: general cluster searches (C4-C200) with no symmetry constraints (C1 structures only)
 
-*_HS: general cluster searches (C4-C200) with higher symmetry structures
+*_HS: general cluster searches (C4-C200) with higher symmetry constraints (C2-Ih structures, including 2-24 symmetry operations)
 
 *_C60: C60-only cluster searches
 
