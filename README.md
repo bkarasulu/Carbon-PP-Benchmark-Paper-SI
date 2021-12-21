@@ -1,5 +1,5 @@
 # Carbon-PP-Benchmark-Paper-SI
-Naming conventions:
+**Naming conventions:**
 
 *_NS: general cluster searches (C4-C200) with no symmetry structures (C1 only)
 
@@ -11,8 +11,9 @@ GAP20_C240: C240-only cluster searches using GAP20 potential
 
 GAP20_Larger-Clusters: Larger cluster (C200-C720) searches using GAP20
 
+-------------------------------------------------------
 
- 
+
 **DFT/Potential References:**
 
 **DFT/GGA-PBE:** G. Kresse and J. Hafner. Ab initio molecular dynamics
