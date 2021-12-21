@@ -1,3 +1,0 @@
-#rsync -avhu  --partial --include={*.res,C.*} --filter="-! */" ../* . -L --exclude={Collection,rings-out}
-
-#rsync -avhu  --partial --include={*.res,C.*}  --filter="-! */" `find . -name UNIQUE`  ../Small-Coll/ -LR --exclude={Collection,rings-out}
