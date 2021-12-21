@@ -12,7 +12,7 @@ GAP20_C240: C240-only cluster searches using GAP20 potential
 GAP20_Larger-Clusters: Larger cluster (C200-C720) searches using GAP20
 
 
-
+ 
 DFT/Potential References:
 
 DFT/GGA/PBE:
